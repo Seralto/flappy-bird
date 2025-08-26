@@ -1,4 +1,6 @@
 # Flappy Bird (HTML5 + JS)
+<img width="358" height="639" alt="image" src="https://github.com/user-attachments/assets/bde26656-e31b-4d7c-9ecf-9ebe8ece80ea" />
+
 
 A faithful Flappy Bird clone built with HTML5 Canvas and JavaScript, using open assets for sprites and sounds.
 
